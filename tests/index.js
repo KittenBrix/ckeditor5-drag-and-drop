@@ -1,5 +1,5 @@
 import { MyPlugin as MyPluginDll, icons } from '../src';
-import MyPlugin from '../src/myplugin';
+import MyPlugin from '../src/main';
 
 import ckeditor from './../theme/icons/ckeditor.svg';
 

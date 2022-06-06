@@ -23,7 +23,7 @@ import TableToolbar from '@ckeditor/ckeditor5-table/src/tabletoolbar';
 import CodeBlock from '@ckeditor/ckeditor5-code-block/src/codeblock';
 import Code from '@ckeditor/ckeditor5-basic-styles/src/code';
 
-import MyPlugin from '../src/myplugin';
+import MyPlugin from '../src/main';
 
 /* global document, window */
 

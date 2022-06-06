@@ -25,7 +25,13 @@
     "ckeditor5-metadata.json"
   ],
   "dependencies": {
-    "ckeditor5": ">=34.1.0"
+    "ckeditor5": ">=34.1.0",
+    "css-loader": "5",
+    "postcss-loader": "4",
+    "raw-loader": "4",
+    "style-loader": "2",
+    "webpack": "5",
+    "webpack-cli": "4"
   },
   "devDependencies": {
     "@ckeditor/ckeditor5-autoformat": ">=34.1.0",
